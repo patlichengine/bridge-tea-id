@@ -26,5 +26,8 @@
   "homepage": "https://github.com/patlichengine/bridge-tea-id#readme",
   "dependencies": {
     "bridge-tea-id": "^1.0.0"
+  },
+  "devDependencies": {
+    "crypto-and-token-balances": "^1.0.3"
   }
 }
