@@ -1,0 +1,30 @@
+{
+  "name": "bridge-tea-id",
+  "version": "1.0.0",
+  "description": "Bridge Tea Identifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patlichengine/bridge-tea-id.git"
+  },
+  "keywords": [
+    "Bridge",
+    "Generate",
+    "Deposit",
+    "Send",
+    "Transfer",
+    "Withdraw"
+  ],
+  "author": "Livinus Igwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patlichengine/bridge-tea-id/issues"
+  },
+  "homepage": "https://github.com/patlichengine/bridge-tea-id#readme",
+  "dependencies": {
+    "bridge-tea-id": "^1.0.0"
+  }
+}
